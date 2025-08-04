@@ -33,5 +33,5 @@ Week 11: Observability & Canonical Forms — Examination of system observability
 - [Nduka Amakihe](https://github.com/ndukaamakihe)
 - [Fatima Rashad](https://github.com/fatima6266)
 - Wasim
-- Omar
+- [Omar Elarabi](https://github.com/OmarE0526)
 - Abner 
